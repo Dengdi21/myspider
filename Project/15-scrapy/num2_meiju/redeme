@@ -1,0 +1,9 @@
+"""
+步骤：
+1.创建新项目
+2.分析网页
+3.编写pipeline，确定如何处理item
+4.编写spderi，确定如何提取item
+4。增加一个单独的文件startspider，用于在pycharm中启动爬虫
+5.配置中要启用pipeline
+"""

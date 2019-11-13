@@ -1,0 +1,8 @@
+"""
+1.创建项目
+2.编写item
+3.编写spider
+4.编写pipeline
+5.设置pipeline
+6.中间件，因为会使用selenium
+"""
