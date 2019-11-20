@@ -34,3 +34,33 @@ client = pymongo.MongoClient('127.0.0.1', 27017)
 # client = pymongo.MongoClient('mongodb://127.0.0.1:27017')
 
 # 获取到数据库，连接数据库
+db = client.kugou_db
+
+# 获取集合
+std = db.songs
+
+# 获取数据
+datas = std.find()
+
+print(datas, type(datas))
+
+for i in datas:
+    print(i['rank'], i['singer'])
+    # 获取集合的属性
+    print(i.keys())
+
+# 插入数据（文档）
+db1 = client.TBTL_tea
+
+post = {
+    'name': 'liudana',
+    "sex": 'm',
+    "age": '18',
+    "class": ['database', 'python', 'java', 'math'],
+    "income": 10000000
+}
+
+posts = db1.posts
+
+post_id = posts.insert_one(post).inserted_id
+print("post id is : ", post_id)
