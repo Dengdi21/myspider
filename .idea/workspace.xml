@@ -2,12 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5039828-841f-4fce-9f88-9b31a7f8c407" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/17-Ajax-异步加载.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/18-csv-网易云歌手信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/19-pandas-中国票房数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/mymiddles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders/lanrentuku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders/p1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/mymiddles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders/ghostdriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders/qidian.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders/qidian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/num6_tencent/spiders/tencent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num6_tencent/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders/lianjia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders/lianjia.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders/lianjia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/20-save-mongodb-hupu_NBA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/21-喜马拉雅.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/22-you-get_bilibili_视频下载.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/baiduMAP_API/MYSQL_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/baiduMAP_API/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/baiduMAP_API/to_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/data_to_mongodbAPI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/16-saving_data/five_to_mongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/16-saving_data/five_to_mongodb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/12-selenium_斗鱼.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/12-selenium_斗鱼.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/13-selenium_控制百度js.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/13-selenium_控制百度js.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +81,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,14 +93,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Project/15-scrapy/num3_xiaohua" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project" />
       <recent name="$PROJECT_DIR$/Project/15-scrapy/num2_meiju" />
       <recent name="$PROJECT_DIR$/项目" />
       <recent name="$PROJECT_DIR$/验证码识别" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders" />
+      <recent name="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia" />
+      <recent name="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders" />
+      <recent name="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian" />
+      <recent name="$PROJECT_DIR$/Project/15-scrapy/num3_xiaohua" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,8 +120,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19-pandas-中国票房数据">
-    <configuration name="17-Ajax-异步加载" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="lanrentuku" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyNetSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/17-Ajax-异步加载.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders/lanrentuku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18-csv-网易云歌手信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyNetSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/18-csv-网易云歌手信息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19-pandas-中国票房数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyNetSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/19-pandas-中国票房数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="startspider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyNetSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/15-scrapy/num3_xiaohua" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/15-scrapy/num3_xiaohua/startspider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="startspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyNetSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,12 +217,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/15-scrapy/num2_meiju" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/baiduMAP_API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/15-scrapy/num2_meiju/startspider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/baiduMAP_API/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.19-pandas-中国票房数据" />
-        <item itemvalue="Python.18-csv-网易云歌手信息" />
-        <item itemvalue="Python.17-Ajax-异步加载" />
-        <item itemvalue="Python.startspider (1)" />
-        <item itemvalue="Python.startspider" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.lanrentuku" />
+        <item itemvalue="Python.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +271,16 @@
       <workItem from="1574067879933" duration="1705000" />
       <workItem from="1574224615366" duration="264000" />
       <workItem from="1574224916883" duration="8583000" />
+      <workItem from="1574320890073" duration="11636000" />
+      <workItem from="1574402173020" duration="1959000" />
+      <workItem from="1574405599856" duration="6742000" />
+      <workItem from="1574662338232" duration="874000" />
+      <workItem from="1574669120609" duration="263000" />
+      <workItem from="1574746979751" duration="334000" />
+      <workItem from="1574830243850" duration="8627000" />
+      <workItem from="1574917960033" duration="1255000" />
+      <workItem from="1574929597473" duration="344000" />
+      <workItem from="1575007363397" duration="8332000" />
     </task>
     <servers />
   </component>
@@ -240,28 +304,36 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MyNetSpider$3_.coverage" NAME="3-开心网 Coverage Results" MODIFIED="1573023560780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1567489424556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyNetSpider$startspider__1_.coverage" NAME="startspider (1) Coverage Results" MODIFIED="1573564002321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/15-scrapy/num3_xiaohua" />
+    <SUITE FILE_PATH="coverage/myspider$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1575015276511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/15-scrapy/num7_lianjia/num7_lianjia/spiders" />
     <SUITE FILE_PATH="coverage/myspider$17_Ajax_.coverage" NAME="17-Ajax-异步加载 Coverage Results" MODIFIED="1574229050190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$login_session.coverage" NAME="login_session Coverage Results" MODIFIED="1567922499167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$7_etree_.coverage" NAME="7-etree_糗事百科 Coverage Results" MODIFIED="1573124221968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
     <SUITE FILE_PATH="coverage/myspider$18_csv_.coverage" NAME="18-csv-网易云歌手信息 Coverage Results" MODIFIED="1574232886453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
     <SUITE FILE_PATH="coverage/MyNetSpider$2_.coverage" NAME="2-批量代理 Coverage Results" MODIFIED="1572767344382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$8_.coverage" NAME="8-扇贝单词 Coverage Results" MODIFIED="1573126102091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/myspider$21_.coverage" NAME="21-喜马拉雅 Coverage Results" MODIFIED="1574343423285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
     <SUITE FILE_PATH="coverage/MyNetSpider$11_.coverage" NAME="11-豆瓣登录 Coverage Results" MODIFIED="1573134144944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$Ajax_ex_jingritoutiao_picture.coverage" NAME="Ajax_ex_jingritoutiao_picture Coverage Results" MODIFIED="1567845996571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$requests_test.coverage" NAME="requests_test Coverage Results" MODIFIED="1567501832536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$1_.coverage" NAME="1-百度贴吧 Coverage Results" MODIFIED="1572765808905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/myspider$19_pandas_.coverage" NAME="19-pandas-中国票房数据 Coverage Results" MODIFIED="1574236324101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$3_.coverage" NAME="3-开心网 Coverage Results" MODIFIED="1573023560780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1567489424556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myspider$lanrentuku.coverage" NAME="lanrentuku Coverage Results" MODIFIED="1574831526125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders" />
+    <SUITE FILE_PATH="coverage/myspider$main.coverage" NAME="main Coverage Results" MODIFIED="1574834049515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/15-scrapy/num4_lanrentuku/num4_lanrentuku/spiders" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$login_session.coverage" NAME="login_session Coverage Results" MODIFIED="1567922499167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$7_etree_.coverage" NAME="7-etree_糗事百科 Coverage Results" MODIFIED="1573124221968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/MyNetSpider$8_.coverage" NAME="8-扇贝单词 Coverage Results" MODIFIED="1573126102091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
     <SUITE FILE_PATH="coverage/MyNetSpider$9_bs4_.coverage" NAME="9-bs4_腾讯招聘 Coverage Results" MODIFIED="1573127487495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/myspider$12_selenium_.coverage" NAME="12-selenium_斗鱼 Coverage Results" MODIFIED="1574341549462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
     <SUITE FILE_PATH="coverage/MyNetSpider$12_selenium_.coverage" NAME="12-selenium_斗鱼 Coverage Results" MODIFIED="1573135801860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
     <SUITE FILE_PATH="coverage/MyNetSpider$10_.coverage" NAME="10-豆瓣读书 Coverage Results" MODIFIED="1573132426060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
     <SUITE FILE_PATH="coverage/MyNetSpider$erddd.coverage" NAME="erddd Coverage Results" MODIFIED="1570954429613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyNetSpider$teat_1.coverage" NAME="teat_1 Coverage Results" MODIFIED="1567687773257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myspider$20_save_mongodb_hupu_NBA.coverage" NAME="20-save-mongodb-hupu_NBA Coverage Results" MODIFIED="1574328244747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
     <SUITE FILE_PATH="coverage/MyNetSpider$14_selenium_.coverage" NAME="14-selenium_豆瓣异步加载 Coverage Results" MODIFIED="1573137501839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$Ajax_ex_jingritoutiao_picture.coverage" NAME="Ajax_ex_jingritoutiao_picture Coverage Results" MODIFIED="1567845996571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$requests_test.coverage" NAME="requests_test Coverage Results" MODIFIED="1567501832536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyNetSpider$6__.coverage" NAME="6-正则_猫眼电影 Coverage Results" MODIFIED="1573028859783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
-    <SUITE FILE_PATH="coverage/MyNetSpider$1_.coverage" NAME="1-百度贴吧 Coverage Results" MODIFIED="1572765808905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
     <SUITE FILE_PATH="coverage/MyNetSpider$startspider.coverage" NAME="startspider Coverage Results" MODIFIED="1573549919364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/15-scrapy/num2_meiju" />
-    <SUITE FILE_PATH="coverage/myspider$19_pandas_.coverage" NAME="19-pandas-中国票房数据 Coverage Results" MODIFIED="1574236324101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
+    <SUITE FILE_PATH="coverage/myspider$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1574403244978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/baiduMAP_API" />
+    <SUITE FILE_PATH="coverage/myspider$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1574837079938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/15-scrapy/num5_qidian/num5_qidian/spiders" />
     <SUITE FILE_PATH="coverage/MyNetSpider$requests_exp_maoyanmovie_top100.coverage" NAME="requests_exp_maoyanmovie_top100 Coverage Results" MODIFIED="1567688042403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyNetSpider$.coverage" NAME="图形验证码 Coverage Results" MODIFIED="1567847223902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/验证码识别" />
   </component>

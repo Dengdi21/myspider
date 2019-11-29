@@ -7,7 +7,7 @@ from selenium import webdriver
 import os
 import time
 
-chromedriver = '/Users/chunmu/Desktop/chromedriver'
+chromedriver = '/Users/chumu/Desktop/chromedriver'
 os.environ["webdriver.chrome.driver"] = chromedriver
 driver = webdriver.Chrome(chromedriver)
 

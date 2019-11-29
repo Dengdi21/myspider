@@ -16,7 +16,7 @@ class Douyu():
         self.url = 'https://www.douyu.com/directory/all'
 
     def setUP(self):
-        chromedriver = '/Users/chunmu/Desktop/chromedriver'
+        chromedriver = '/Users/chumu/Desktop/chromedriver'
         os.environ["webdriver.chrome.driver"] = chromedriver
         self.driver = webdriver.Chrome(chromedriver)
 
